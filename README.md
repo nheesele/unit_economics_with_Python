@@ -1,10 +1,23 @@
 # Unit Economics Analysis
 
-This repository contains a complete analysis of key unit economics metrics for a subscription-based or transactional business. The goal is to evaluate customer profitability by calculating Customer Acquisition Cost (CAC), Average Revenue Per User (ARPU), Gross Margin, Customer Lifetime Value (LTV), and the critical LTV/CAC ratio.
+This repository contains the unit economics analysis of Streamline Pro, a Software as a Service (SaaS) platform by TechStream Solutions. Streamline Pro provides comprehensive project management and collaboration tools for businesses of all sizes. Understanding the unit economics of the product helps the company:
 
-The analysis is performed using real-world-style sample data and is fully reproducible.
+* Assess the profitability of acquiring and retaining customers.
+* Evaluate the efficiency of marketing and sales strategies.
+* Make informed decisions about scaling operations and optimizing resource allocation.
 
-## Key Metrics Calculated (2023 Data)
+The analysis focuses on the month of **March 2023**.
+
+The analysis calculates key business metrics such as:
+* Customer Acquisition Cost (CAC)
+* Average Revenue Per User (ARPU)
+* Cost of Goods Sold (COGS)
+* Gross Margin
+* Customer Lifetime Value (LTV)
+* LTV/CAC ratio.
+These metrics help evaluate the profitability and sustainability of customer acquisition and retention strategies.
+
+## Key Metrics Calculated
 
 | Metric                  | Value       | Notes                                                                 |
 |-------------------------|-------------|-----------------------------------------------------------------------|
@@ -18,7 +31,9 @@ The analysis is performed using real-world-style sample data and is fully reprod
 
 ## Data Sources
 
-The original data is pulled from public [Google Sheets links](https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv).
+The data used for this analysis is stored in the shared
+ [Google Drive folder](https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv).
+
 Here are the original Google Sheet IDs and descriptions:
 
 * **Customer Lifespan**: Contains customer IDs, start dates, and churn dates.
@@ -66,4 +81,6 @@ Replace `{SHEET_ID}` with the IDs above.
 - Reduce operational costs to improve gross margin.
 
 This analysis serves as a foundation for deeper cohort analysis, channel attribution, or predictive modeling.
+
+Google Colab
 
