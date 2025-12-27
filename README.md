@@ -19,15 +19,15 @@ These metrics help evaluate the profitability and sustainability of customer acq
 
 ## Key Metrics Calculated
 
-| Metric                  | Value       | Notes                                                                 |
-|-------------------------|-------------|-----------------------------------------------------------------------|
-| Customer Acquisition Cost (CAC) | $1,570.79  | Marketing spend + Sales & Marketing payroll + allocated office expenses |
-| Average Revenue Per User (ARPU) | $327.28    | Total revenue / Unique customers                                      |
-| Cost of Goods Sold (COGS)       | $151,960   | All payroll + operational office expenses                             |
-| Gross Margin                    | 37.00%     | (Revenue - COGS) / Revenue                                            |
-| Average Customer Lifespan       | ~8.1 months| Based on historical churn data                                        |
-| Customer Lifetime Value (LTV)   | $97.95     | ARPU × Lifespan × Gross Margin                                        |
-| LTV / CAC Ratio                 | 0.09       | Significantly below healthy benchmark              |
+| Metric                          | Value       | 
+|----------------------------------|-------------|
+| Customer Acquisition Cost (CAC) | $1,570.79  | 
+| Average Revenue Per User (ARPU) | $327.28    | 
+| Cost of Goods Sold (COGS)       | $151,960   |
+| Gross Margin                    | 37.00%     | 
+| Average Customer Lifespan       | ~8.1 months|
+| Customer Lifetime Value (LTV)   | $97.95     | 
+| LTV / CAC Ratio                 | 0.09       |
 
 ## Data Sources
 
