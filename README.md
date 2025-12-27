@@ -1,2 +1,2 @@
-# Unit_economics_with_Python
+# Unit Economics with Python
 A simple practice with Python
