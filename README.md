@@ -1,6 +1,6 @@
 # Unit Economics Analysis
 
-
+![](https://github.com/nheesele/unit_economics_with_Python/blob/main/Business-IT-Services-1024x536.jpg)
 >source: [techstreamit](https://techstreamit.com.au/wp-content/uploads/2025/09/Business-IT-Services-1024x536.jpg)
 
 This repository contains the unit economics analysis of Streamline Pro, a Software as a Service (SaaS) platform by TechStream Solutions. Streamline Pro provides comprehensive project management and collaboration tools for businesses of all sizes. Understanding the unit economics of the product helps the company:
