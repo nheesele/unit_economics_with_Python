@@ -91,6 +91,4 @@ You can assess the related Google Colab link below to explore the code and data:
 
 [Unit Economics with Python](https://colab.research.google.com/drive/1rRUwo3pIbZA3ZOnOjhlHU4MunLAWa6hH?usp=sharing)
 
-Author: Le Yen Nhi
-
-Date: Dec 2025
+**Author:** Nhi Le
