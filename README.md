@@ -26,31 +26,32 @@ Data was originally sourced from Google Sheets and exported to CSV for version c
 - **Expenses**: Monthly office and operational costs
 - **Receipt History**: Transaction-level revenue data with new/existing customer flags (Q1 2023)
 
-The original data is pulled from Google Sheets (via export to XLSX). Here are the original Google Sheet IDs and descriptions:
+The original data is pulled from public [Google Sheets links](https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv).
+Here are the original Google Sheet IDs and descriptions:
 
-* Customer Lifespan (`customer_lifespan.csv`): Contains customer IDs, start dates, and churn dates.
+* Customer Lifespan: Contains customer IDs, start dates, and churn dates.
 
   Sheet ID: `1by8tPHwOnq3uKYK2E7sA9VBUYoPM4p1Rnrm_Ss9cyHI`.
 
-* Marketing Spendings (`marketing_spendings.csv`): Daily spend by channel (e.g., Google Ads, Facebook Ads).
+* Marketing Spendings: Daily spend by channel (e.g., Google Ads, Facebook Ads).
 
   Sheet ID: `1AZOIThOV4P-0eYDge53ZwumVkfkHoYPWxst3k3Bv87c`.
 
-* Payroll (`payroll.csv`): Monthly payroll by department, employee, and position.
+* Payroll: Monthly payroll by department, employee, and position.
 
   Sheet ID: `1MY6j_um6X6O9Md9OTr3Z80g8l7qQd6lQ8HbyjY8n8g4`.
 
-* Expenses (`expenses.csv`): Monthly operational expenses.
+* Expenses: Monthly operational expenses.
 
   Sheet ID: `1dR2tnv6zOIoM3S4v64X9f5Z1iH9b2B6eK3x6h4Y1k8w`.
 
-* Receipt History (`receipt_history.csv`): Daily receipts with customer IDs, amounts, and new customer flags.
+* Receipt History: Daily receipts with customer IDs, amounts, and new customer flags.
 
   Sheet ID: `1qayqML1zCKdmtzutkcy9LWvE6xFRm6TGBEVkHHJKIuE`.
 
-To regenerate CSVs from Google Sheets:
+To regenerate xlsxs from Google Sheets:
 
-Use the export URL format: `https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv`.
+Use the export URL format: `https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=xlsx`.
 Replace `{SHEET_ID}` with the IDs above.
 
 **Methodology**
